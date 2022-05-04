@@ -1,0 +1,2 @@
+npx json-server server.json -p 3333 -w
+npx json-server server.json -p 3333 -w 2000  '/delay de 2s ao fazer a req'
